@@ -20,3 +20,5 @@ blah = function(x, y) {
 }
 
 blah()
+
+console.log("Testing hound...");
